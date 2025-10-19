@@ -4,6 +4,7 @@ import reader
 
 def main():
     print("Запуск программы")
+    print("Изменение как в person3")
 
     # Создаем текстовый файл
     writer.create_file()
