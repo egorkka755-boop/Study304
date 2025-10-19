@@ -3,7 +3,8 @@ import reader
 
 
 def main():
-    print("Запуск программы")
+    print("Запуск программы person3\n Изменение файла3")
+
 
     # Создаем текстовый файл
     writer.create_file()
